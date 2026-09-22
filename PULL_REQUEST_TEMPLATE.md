@@ -21,10 +21,10 @@ of uitgecommentarieerde test-code.
 ## 2. Rol- en Taakverdeling
 *Iedereen schrijft code en ontwerpt, maar de Leads hakken de knopen door bij
 twijfel.*
-* **Scrum Master:** [Naam] *(Verantwoordelijk voor Stand-ups, GitHub Projects
+* **Scrum Master:** [Ismail] *(Verantwoordelijk voor Stand-ups, GitHub Projects
 board en communicatie)*
-* **Lead Design:** [Naam] *(Bewaakt visuele stijl en UI/UX keuzes)*
-* **Lead Git/Dev:** [Naam] *(Bewaakt code quality en let streng op PR's)*
+* **Lead Design:** [Levi] *(Bewaakt visuele stijl en UI/UX keuzes)*
+* **Lead Git/Dev:** [Thomas] *(Bewaakt code quality en let streng op PR's)*
 ## 3. GitHub & Code Afspraken
 * **Branching:** Niemand commit rechtstreeks naar
 branches.
