@@ -1,4 +1,4 @@
-# Team Charter: [Naam Agency]
+# Team Charter: [Kitchen Queens]
 ## 1. Onze Ambitie
 * als cijfer willen wij het liefst een goed behalen en zoveel mogelijk ons zelf verbeteren
 ## 2. Rol- en Taakverdeling
@@ -6,7 +6,7 @@
 twijfel.*
 * **Scrum Master:** [Ismail] *(Verantwoordelijk voor Stand-ups, GitHub Projects
 board en communicatie)*
-* **Lead Design:** [Naam] *(Bewaakt visuele stijl en UI/UX keuzes)*
+* **Lead Design:** [Thomas] *(Bewaakt visuele stijl en UI/UX keuzes)*
 * **Lead Git/Dev:** [Levi] *(Bewaakt code quality en let streng op PR's)*
 ## 3. GitHub & Code Afspraken
 * **Branching:** Niemand commit rechtstreeks naar
