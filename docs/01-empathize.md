@@ -21,7 +21,7 @@
 
 ## 2. Empathy Map (Visueel)
 
-![Empathy Map](./assets/empathy-map-v1.png)
+![Empathy Map](../images/empathymap.png)
 
   
 
