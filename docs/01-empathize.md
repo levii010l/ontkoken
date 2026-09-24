@@ -28,3 +28,5 @@
 ## 3. Conclusie
 
 *Wat is het belangrijkste inzicht dat we meenemen naar de Define fase?*
+
+Dat mensen manieren moeten vinden om zelf de motivatie te geven om te koken met plezier aan zichzelf en minder geld spenderen aan eten buiten
