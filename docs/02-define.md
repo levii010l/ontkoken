@@ -8,7 +8,7 @@
 
 ## 1. De Probleemstelling (Point of View)
 
-*[Doelgroep] heeft een manier nodig om [behoefte] omdat [inzicht uit empathize fase].*
+De jongeren heeft een middel(website met recepten en actuele informatie over boodschap prijzen) nodig om snel en goedkoop recept te vinden.
 
   
 
@@ -18,15 +18,13 @@
 
 * De app moet responsive zijn (Mobile First).
 
-* [Voeg toe...]
-
-  
+* actuele informatie van een database met artikelen die afgeprijsd zijn in verschillende supermarkten
 
 **Should Haves:**
 
-* [Voeg toe...]
+* informatie van voedingswaren en recepten
 
-  
+* Moet makkelijk te navigeren zijn voor ons doelgroep
 
 **Won't Haves (Buiten scope):**
 
