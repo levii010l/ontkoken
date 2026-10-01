@@ -6,8 +6,8 @@
 twijfel.*
 * **Scrum Master:** [Ismail] *(Verantwoordelijk voor Stand-ups, GitHub Projects
 board en communicatie)*
-* **Lead Design:** [Thomas] *(Bewaakt visuele stijl en UI/UX keuzes)*
-* **Lead Git/Dev:** [Levi] *(Bewaakt code quality en let streng op PR's)*
+* **Lead Design:** [Thomas][Robert][Levi] *(Bewaakt visuele stijl en UI/UX keuzes)*
+* **Lead Git/Dev:** [Ismail] *(Bewaakt code quality en let streng op PR's)*
 ## 3. GitHub & Code Afspraken
 * **Branching:** Niemand commit rechtstreeks naar
 branches.
