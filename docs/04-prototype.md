@@ -8,7 +8,11 @@
 
 ## 1. Wireframes (Lo-Fi)
 
-![Wireframes](./assets/wireframes-lofi.png)
+![Wireframes](images/Screenshot%202026-09-29%20at%2011.31.02%201.png)
+![Wireframes](images/Screenshot%202026-09-29%20at%2011.36.46%201.png)
+![Wireframes](images/Screenshot%202026-09-29%20at%2011.42.39%201.png)
+![Wireframes](images/Screenshot%202026-09-29%20at%2011.53.09.png)
+![Wireframes](images/Screenshot%202026-09-29%20at%2012.00.07.png)
 
   
 

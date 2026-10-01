@@ -27,8 +27,14 @@ Hoe kunnen we de behoefte aan ontkoming onder jongvolwassenen gebruiken om betek
 
 *Welk concept gaan we bouwen en waarom sluit dit het beste aan bij de PvE uit de Define fase?*
 
-  
+We gaan een website bouwen dat om Gen Z te stimuleren om zelf te koken, ze de mogelijkheid geven om recepten te delen. Dit sluit aan bij de PVE omdat we letten op wat het best werk voor Gen Z
 
 ## 3. User Flow (Visueel)
 
 ![User Flow Diagram](images/flowchart.png)
+
+## 4. Style Guide/Moodboard
+
+![Style Guide]()
+
+![MoodBoard](images/moodboord.png)
