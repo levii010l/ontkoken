@@ -4,7 +4,7 @@
 
 ## 1. Doelgroeponderzoek
 
-* **Wie is onze gebruiker?** [Jongeren die niet zelf koken, maar vooral eten halen]
+* **Wie is onze gebruiker?** [Jongeren/studenten die niet zelf koken, maar vooral eten halen]
 
 * **Pijnpunten (Pains):**
 
