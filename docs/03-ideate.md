@@ -31,7 +31,7 @@ We gaan een website bouwen dat om Gen Z te stimuleren om zelf te koken, ze de mo
 
 ## 3. User Flow (Visueel)
 
-![User Flow Diagram](images/flowchart.png)
+![User Flow Diagram](images/flow2.png)
 
 ## 4. Style Guide/Moodboard
 
