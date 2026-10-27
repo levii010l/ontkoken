@@ -26,6 +26,12 @@ De jongeren heeft een middel(website met recepten en actuele informatie over boo
 
 * Moet makkelijk te navigeren zijn voor ons doelgroep
 
+**Could Haves:**
+
+
+
 **Won't Haves (Buiten scope):**
 
 * Integratie met echte supermarkt API's.
+
+* 
